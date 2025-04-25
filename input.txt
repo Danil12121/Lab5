@@ -1,0 +1,5 @@
+Savings 500 USD 4.5
+Family 120 EUR 3.2
+Retirement 7500 RUB 6.0
+Golden 1500 USD 5.1
+Student 300 EUR 2.5

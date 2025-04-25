@@ -1,0 +1,34 @@
+Start deque:
+Name: Savings, Amount: 500 USD, Percent: 4.5%
+Name: Family, Amount: 120 EUR, Percent: 3.2%
+Name: Retirement, Amount: 7500 RUB, Percent: 6%
+Name: Golden, Amount: 1500 USD, Percent: 5.1%
+Name: Student, Amount: 300 EUR, Percent: 2.5%
+
+Sorted deque:
+Name: Family, Amount: 120 EUR, Percent: 3.2%
+Name: Golden, Amount: 1500 USD, Percent: 5.1%
+Name: Retirement, Amount: 7500 RUB, Percent: 6%
+Name: Savings, Amount: 500 USD, Percent: 4.5%
+Name: Student, Amount: 300 EUR, Percent: 2.5%
+
+Copied and sorted list:
+Name: Family, Amount: 120 EUR, Percent: 3.2%
+Name: Golden, Amount: 1500 USD, Percent: 5.1%
+Name: Retirement, Amount: 7500 RUB, Percent: 6%
+Name: Savings, Amount: 500 USD, Percent: 4.5%
+Name: Student, Amount: 300 EUR, Percent: 2.5%
+
+Set:
+Name: Family, Amount: 120 EUR, Percent: 3.2%
+Name: Golden, Amount: 1500 USD, Percent: 5.1%
+Name: Retirement, Amount: 7500 RUB, Percent: 6%
+Name: Savings, Amount: 500 USD, Percent: 4.5%
+Name: Student, Amount: 300 EUR, Percent: 2.5%
+
+Unordered set:
+Name: Savings, Amount: 500 USD, Percent: 4.5%
+Name: Student, Amount: 300 EUR, Percent: 2.5%
+Name: Retirement, Amount: 7500 RUB, Percent: 6%
+Name: Golden, Amount: 1500 USD, Percent: 5.1%
+Name: Family, Amount: 120 EUR, Percent: 3.2%
